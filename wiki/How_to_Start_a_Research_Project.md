@@ -10,127 +10,128 @@
 - Do a Google Scholar search.
 - Use LLMs to get a feel for the literature, but do a deep dive yourself on ideas that seem promising.
 
-### 3. Identify and articulate the cutting edge of the literature
-- Identify what opportunities you see (e.g. what is needed or missing, or a new angle that people haven’t tried yet).
+### 3. Identify and articulate the cutting edge of the literature, and what opportunities you see
+- For example, what is needed or missing, or a new angle that people haven’t tried yet.
 - Focus on ways that new methods (e.g. optimization and design) can contribute:
-  - New ways of asking questions, or
-  - New ways of answering existing questions.
+  - New ways of asking questions
+  - New ways of answering existing questions
 
 ---
 
 ## Part II: Formulate the Problem
 
-### 4. Write down a concrete question to answer
-- Discuss the question with collaborators and people whose opinions and experience you trust.
+### 4. Write down a concrete question to answer first
+- Discuss the question with your collaborators and people whose opinions and experience you trust.
 
-#### a. The question should be impactful
-- The fact that a hole exists in the literature is not enough justification to pursue that hole.
-- Instead, think about what lines of inquiry will be opened up if you are able to answer this question.
-- Impact can range from:
-  - New fundamental ideas to explore
-  - Interactions with more distant fields
-  - Potential impacts on human health or climate change  
-- Any impact is good, as long as it inspires you.
+- **a. This question should exist at the cutting edge you identified, and it should be impactful**
+  - The fact that a hole exists in the literature is not enough justification to pursue that hole.
+  - Instead, think about what lines of inquiry will be opened up if you are able to answer this question.
+  - Impact can range from:
+    - New fundamental ideas to explore
+    - Interactions with more distant fields
+    - Potential impacts on human health or climate change
+  - Any impact is good, as long as it inspires you!
 
-#### b. The question needs to be doable
-- This is often the hardest part for new researchers.
-- One way to assess this is by asking: *“What would my first step be toward answering this question?”*
-- If you have clear ideas about where to start, it’s more likely to be doable.
+- **b. This question needs to be doable**
+  - This aspect is often the hardest piece for new researchers to determine.
+  - One way to explore this is by asking: *“What would my first step be towards answering this question?”*
+  - If you have some clear ideas about where to start, it’s more likely to be doable.
 
-#### c. If possible, choose a question where any outcome is interesting
-- If a negative result is boring, it will be harder to publish and harder to continue.
-- If all outcomes are interesting:
-  - All the work you do pushes toward the impact you’ve identified.
-  - The project will be more fun.
+- **c. If possible, choose a question where any outcome is interesting**
+  - If a negative result is boring, that will make it harder to publish and harder to continue.
+  - If all outcomes are interesting:
+    - All the work that you do will push towards the impact you’ve identified.
+    - It’ll also be more fun for you!
 
-#### d. Risk assessment
-- It’s not always possible to make all outcomes interesting.
-- In that case, assess the balance of risk and reward:
-  - How much work will it take to get an answer?
-  - If it takes minimal work to determine whether the outcome is interesting, the risk may be worth it.
-  - If it will take years, it may not be.
-- This also depends on how impactful a positive outcome would be.
-- If you take on a risky project, it’s good to have another, less risky project at the same time.
+- **d. Assess risk and reward:**
+    - Your time is valuable!
+    - Ask yourself:
+      - How much work will it take to get to an answer?
+      - How important and impactful is this result?
+    - If it’s minimal work to know whether the outcome will be interesting, it may be worth the risk even if the impact is not that high.
+    - If it’ll take years of work, then the impact of the result should be correspondingly higher
+    - The risk is a lot higher if only a positive outcome is interesting
+    - If you take on a risky project, it’s good to have another project that’s less risky at the same time.
 
-#### e. Get early feedback
-- The people around you are your best resource.
-- They can:
-  - Guide your ideas
-  - Point you toward important papers or angles you missed
-  - Help refine the impact of your question
+- **e. Getting early feedback is key**
+  - The people around you are your best resource.
+  - They can:
+    - Provide guidance on your ideas
+    - Point you towards important papers or angles you missed
+    - Help you refine the impact that your question could have
 
-### 5. Choose methods and computational tools
-- These may evolve, but you should have a clear sense of how you’ll start attacking the problem.
+### 5. Choose the methods and computational tools best-suited to answering the question
+- These may evolve as you’re working, but you should have a clear sense of how you’re going to start attacking the problem.
 
-#### a. Validation
-- Find a result in the literature to compare against as validation.
-- Example:
-  - If you’re simulating polymer dynamics, compute diffusion rates under different regimes and compare them to analytical results in the literature.
-- This is useful for:
-  - Debugging
-  - Publishing, since it builds trust in your results.
+- **a. Validation**
+  - Find a result in the literature that you can compare your results to as validation of the method.
+  - For example:
+    - If you’re setting up a simulation of polymer dynamics, compute the diffusion rates under different regimes and compare those to analytical results in the literature.
+  - This is useful for debugging.
+  - It’s also useful for publishing the work: it’s a way to show an audience that they can trust your results.
 
-#### b. Break the problem into steps
-- If needed, break the main question into easier, more doable sub-questions.
+- **b. Breaking the question into steps**
+  - If needed, this is a good time to break up the question you selected into easier, more doable steps.
 
-### 6. Sketch a rough outline of the paper
+### 6. Sketch a rough outline of the paper you’ll write on the question you selected
 - Use bullet points only.
-- Include:
-  - Motivation (impact and how this work contributes)
-  - The main question
+- Write down:
+  - Your motivation (i.e. the impact you selected and how this contributes to the impact)
+  - The main question you’re asking
   - The methods you’ll use
-- Roughly hand-sketch the figures you want in the paper:
-  - These represent your main results.
-  - They serve as guideposts as you do the project.
-- Expect this outline to change — that’s normal and often exciting.
-- Revisit and update it as results come in.
-- Don’t be afraid to change the question.
+- Very roughly hand-sketch the figures you want in the paper.
+  - These are your main results.
+  - They will serve as guideposts when you start doing the project.
+- This outline is very likely to change as you progress.
+- That’s completely okay, and is often exciting.
+- As you get results, revisit this outline and update the ideas as you go.
+- Don’t be afraid to change the question!
 
 ---
 
 ## Part III: Collect Results
 
-### 7. Collect preliminary validation results
-- Compare your method or problem setup to existing results in the literature.
+### 7. Collect preliminary results that compare your method or problem setup to existing results in the literature
+- This validates the method.
 
-#### a. Ask for help if you get stuck
-- This helps you progress faster.
-- It also helps you build connections.
-- Asking for help is an important part of the scientific process.
+- **a. Ask for help if you get stuck**
+  - This will help you progress more quickly.
+  - It will also help you make new connections with people around you.
+  - Asking for help is an important part of the scientific process.
 
-### 8. Go beyond the existing literature
-- Collect preliminary results that push past what’s already been done.
+### 8. Push past the existing literature
+- Collect preliminary results that go beyond what’s been done before.
 
-#### a. Let figures guide your data collection
-- Use the figures identified in your paper outline to guide what data you collect.
+- **a. Data collection**
+  - The data you collect should be guided by the figures you identified when outlining the paper.
 
-#### b. Unexpected results are good
-- Disagreement with expectations is exciting, not a problem.
-- If this happens:
-  1. Revisit or expand validation methods to ensure you trust the results.
-  2. Return to the literature to see if:
-     - Others noticed something similar, or
-     - Prior work contains clues to explain your results.
-  3. Don’t be afraid to change your question.
-     - Update your paper outline with the new direction in mind.
+- **b. Results may disagree with your expectations**
+  - That’s not a problem — it’s exciting!
+  - In that case, you should:
+    - Make sure that you trust the results by revisiting or expanding your validation methods.
+    - Go back to the literature and see if anyone else has noticed what you’re noticing.
+    - See if prior work can hold clues that help you understand your results.
+    - Don’t be afraid to change your question!
+    - Return to your rough paper outline and redo it with the new results in mind.
 
-### 9. Create production-quality figures and write the paper
-- As ideas solidify, you may notice discrepancies you missed earlier.
-- This is expected and valuable.
+### 9. Start creating production-quality figures and filling in the paper outline
 
-#### a. Writing clarifies thinking
-- Writing helps:
-  - Distill ideas
-  - Clarify logic
-  - Reveal the most important discoveries
-- If you notice issues:
-  - Go back to the method and address them.
-  - Results may change — that’s fine.
-  - Return to the paper outline and update it.
-- This cycle is a natural part of research, especially when exploring new ideas.
+- **a. Finalizing ideas**
+  - Often, when you start finalizing ideas, you’ll notice discrepancies you missed earlier on.
+  - That’s part of the point of writing the paper:
+    - It helps distill ideas.
+    - It clarifies the logic.
+    - It reveals the most important things you’ve discovered.
+  - Noticing these things means that the writing is doing its job.
+  - Take the time to go back to your method and address anything you notice.
+  - It’s possible this will change the result.
+  - That’s completely fine!
+  - Return to the step of outlining the paper with the new results.
+  - This cycle is a natural part of the research process.
+  - When you’re working on ideas no one has ever discovered before, you’re going to get things wrong on the first (and sometimes second, third, or fourth) pass.
 
-#### b. Get feedback
-- Share drafts with people you trust:
-  - Peers
-  - Collaborators
-  - Professors you’d like to get to know better
+- **b. Get feedback**
+  - Get feedback on the draft from people you trust:
+    - Peers
+    - Collaborators
+    - Professors you want to get to know better
