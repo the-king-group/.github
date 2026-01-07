@@ -43,7 +43,7 @@
   - All the work you do pushes toward the impact you’ve identified.
   - The project will be more fun.
 
-##### Risk assessment
+#### d. Risk assessment
 - It’s not always possible to make all outcomes interesting.
 - In that case, assess the balance of risk and reward:
   - How much work will it take to get an answer?
@@ -52,7 +52,7 @@
 - This also depends on how impactful a positive outcome would be.
 - If you take on a risky project, it’s good to have another, less risky project at the same time.
 
-#### d. Get early feedback
+#### e. Get early feedback
 - The people around you are your best resource.
 - They can:
   - Guide your ideas
