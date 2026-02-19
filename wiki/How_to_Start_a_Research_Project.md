@@ -8,7 +8,7 @@
 ### 2. Do some background reading on the topic
 - Collect papers recommended by people that you know and trust.
 - Do a Google Scholar search.
-- Use LLMs to get a feel for the literature, but do a deep dive yourself on ideas that seem promising.
+- You can use LLMs to get a feel for the literature, but do a deep dive yourself on ideas that seem promising.
 
 ### 3. Identify and articulate the cutting edge of the literature, and what opportunities you see
 - For example, what is needed or missing, or a new angle that people haven’t tried yet.
