@@ -8,9 +8,9 @@ This is brief tour of introductory materials for JAX, an automatic differentiati
 
 
 **JAX-MD Information:**
-- [Jax-MD Documentation](https://jax-md.readthedocs.io/en/latest/)
-- [Jax-MD Source Code](https://github.com/google/jax-md) This github page also contains links to several useful introductory colab notebooks
-- [Jax-MD Cookbook](https://colab.research.google.com/github/google/jax-md/blob/master/notebooks/jax_md_cookbook.ipynb), a colab notebook that provides an introduction to JAX-MD
+- [JAX-MD Documentation](https://jax-md.readthedocs.io/en/latest/)
+- [JAX-MD Source Code](https://github.com/google/jax-md) This github page also contains links to several useful introductory colab notebooks
+- [JAX-MD Cookbook](https://colab.research.google.com/github/google/jax-md/blob/master/notebooks/jax_md_cookbook.ipynb), a colab notebook that provides an introduction to JAX-MD
 
 **Step-by-step Guide to Compile JAX and JAX-MD on an Apple M1 Chip Machine:**
 
