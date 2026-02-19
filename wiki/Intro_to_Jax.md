@@ -4,6 +4,7 @@ This is brief tour of introductory materials for JAX, an automatic differentiati
 - [JAX documentation](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html), which includes a tutorial
 - [JAX Tutorial](https://colab.research.google.com/drive/1bp45JyWXzB1mBj_smlAmf8SHOE7ay7sR#scrollTo=b7tMzjTs9Tje), tutorial from Harvard University's Applied Math 216 course, which includes how to model physical ODE systems
     - [Updated JAX Tutorial](https://colab.research.google.com/drive/1AxAAvOzFupWhKZb7M50QgJmRg5qvMAgp?usp=sharing), tutorial with up-to-date syntax from Katherine Ellis in fall 2025
+- [Jax for Optimization Tutorial](https://github.com/jax-md/jax-md/tree/main/notebooks/tutorial), tutorial from MRS Workshop that builds up how to simulate and optimize over simulations in Jax
 
 
 **JAX-MD Information:**
