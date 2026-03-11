@@ -29,7 +29,7 @@ Installation steps:
 5. Compile and install `jax-lib`
 
    ```
-   python build/build.py # use python build/build.py build --wheels=jaxlib to specifically build jaxlib
+   python build/build.py build --wheels=jaxlib
    pip install dist/*.whl  # installs jaxlib (includes XLA)
    ```
 6. Install `jax`
