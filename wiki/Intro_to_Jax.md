@@ -19,23 +19,24 @@ Currently there is no pre-built wheel to install JAX on an M1 Chip Machine.  In 
 Installation steps:
 1. Install python with [miniforge](https://github.com/conda-forge/miniforge#miniforge3) using the `Miniforge3-MacOSX-arm64` installer
 2. Install `JAX` prerequisite `numpy` `scipy` `six` `wheel` `bazel` using `conda` (The `miniforge` installer should automatically install the M1 native build version for these packages) by writing `conda install numpy scipy six wheel bazel`
-3. Download `JAX` source code
+3. Be sure to download Xcode (available in the app store) and the command line developer tools using `xcode-select --install` and following the prompts. Without these tools the code in part 5 will return an error when it tries to compile with Clang. 
+4. Download `JAX` source code
 
     ```
     git clone https://github.com/google/jax
     cd jax
     ```
-4. Compile and install `jax-lib`
+5. Compile and install `jax-lib`
 
    ```
    python build/build.py # use python build/build.py build --wheels=jaxlib to specifically build jaxlib
    pip install dist/*.whl  # installs jaxlib (includes XLA)
    ```
-5. Install `jax`
+6. Install `jax`
 
    `pip install -e .  # installs jax`
    
-6. Download and Install `JAX-MD` source code
+7. Download and Install `JAX-MD` source code
 
    ```
    git clone https://github.com/google/jax-md
@@ -43,7 +44,7 @@ Installation steps:
    ```
 
 
-Credit to Chrisy Xiyu Du for these introductory materials.
+Credit to Chrisy Xiyu Du for these introductory materials. Updated March 11th 2026 by Katherine Ellis
    
    
     
