@@ -12,7 +12,7 @@ This is brief tour of introductory materials for JAX, an automatic differentiati
 - [JAX-MD Source Code](https://github.com/google/jax-md) This github page also contains links to several useful introductory colab notebooks
 - [JAX-MD Cookbook](https://colab.research.google.com/github/google/jax-md/blob/master/notebooks/jax_md_cookbook.ipynb), a colab notebook that provides an introduction to JAX-MD
 
-**Step-by-step Guide to Compile JAX and JAX-MD on an Apple M1 Chip Machine:**
+**Step-by-step Guide to Compile JAX and JAX-MD on an Apple Silicon (M1, M2, M3, M4 chips) machine:**
 
 Currently there is no pre-built wheel to install JAX on an M1 Chip Machine.  In fact, most python distributors haven't released an official package to install python on the native M1 build.  If you download Anaconda official release to install python and related packages, you will be installing using Rosetta2, which creates an emulated environment of the old Intel Chip architecture.  This is OK with most python packages, but you would run into problem if you want to have a local build of JAX and JAX-MD.  In order to properly install JAX and JAX-MD, we want to build a python environment with native M1 architecture, and then compile JAX and JAX-MD from source.
 
