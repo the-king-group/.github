@@ -1,7 +1,3 @@
----
-layout: default
-title: Welcome to the King Group!
----
 
 # Welcome to the King Group!
 
