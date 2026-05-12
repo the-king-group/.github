@@ -2,6 +2,8 @@
 layout: default
 title: How to Start a Research Project
 ---
+{% include nav.html %}
+
 # How to Start a Research Project
 
 ## Part I: Reading
