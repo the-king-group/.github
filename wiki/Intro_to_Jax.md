@@ -2,6 +2,8 @@
 layout: default
 title: Intro to JAX
 ---
+{% include nav.html %}
+
 # Intro to JAX
 
 This is brief tour of introductory materials for JAX, an automatic differentiation code base that also supports automatic vectorization, automatic parallelization, and just-in-time compiling. We also link introductory materials for JAX-MD, a molecular dynamics package that is built on top of JAX. It allows you to run fully differentiable molecular dynamics simulations.
