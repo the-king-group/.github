@@ -2,7 +2,6 @@
 layout: default
 title: Intro to JAX
 ---
-{% include nav.html %}
 
 # Intro to JAX
 
